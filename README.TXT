@@ -1,7 +1,12 @@
 README FILE
 
-If these list seem too long for you to read, go to the my youtube channel and enjoy the video:
+If these list seem too long for you to read, go to the my youtube channel and enjoy the video. The video describe setting up this testing , setting up the script, running the script and the results. Below is the link:
+https://youtu.be/AmiNlwON0e8
 
+
+
+They are part of the "Automation Fun" Youtube channel which I have developed
+https://www.youtube.com/playlist?list=PLFUDS9LewFc6UYkIZ66qfobOWhgE-_bvM
 
 
 A) Setup
