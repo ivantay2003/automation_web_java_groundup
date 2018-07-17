@@ -1,7 +1,11 @@
 README FILE
 
-A)
-Setup
+If these list seem too long for you to read, go to the my youtube channel and enjoy the video:
+
+
+
+A) Setup
+=========
 Pre-requisite software
 - Java 1.8
 - Eclipse IDE
@@ -11,7 +15,8 @@ Pre-requisite software
 Use Eclipse to import this folder as Project
 
 
-B)
+B) Dependencies
+================
 Refer to pom.xml for dependencies. You will need this otherwise you will need to install the libraries manually 
 
 MAKE SURE THIS IS IN POM.XML
@@ -71,8 +76,8 @@ MAKE SURE THIS IS IN POM.XML
   </dependencies>
 
 
-3)
-User Test data
+3) User Test data
+=================
 
 User test data is located in  /UserData
 
@@ -101,18 +106,37 @@ Change the file name in this method
 
 
 
-4) 
-Running the test 
-
+4) Running the test 
+====================
 There are 2 ways to run the file.
 
-1) 
+A) 
 You can open the project and press Run
 
-2)Use maven
+B)Use maven
 (My prefer way)
 
 Go to terminal 
 - mvn test
  
 
+5) Test Document
+
+Folder:
+//Documents
+
+Test Plan in Word format
+2 Test Cases (001 / 002) in Excel format
+
+
+6) User Data 
+============
+
+Folder :
+UserData
+
+2 Excel format files
+Template_UserData
+UserData
+
+You can change the data in UserData and the scripts will pick it up.
