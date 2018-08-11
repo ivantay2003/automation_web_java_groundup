@@ -9,6 +9,15 @@ They are part of the "Automation Fun" Youtube channel which I have developed
 https://www.youtube.com/playlist?list=PLFUDS9LewFc6UYkIZ66qfobOWhgE-_bvM
 
 
+If you have completed this , go to this repo for the next advance module for better design
+https://github.com/ivantay2003/automation_web_java_groundup_v2
+
+
+
+You can contact me in Linkedin
+https://www.linkedin.com/in/ivantay
+
+
 A) Setup
 =========
 Pre-requisite software
